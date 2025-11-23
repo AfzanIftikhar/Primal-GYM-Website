@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+
+@font-face {
+  font-family: "Anton";
+  src: url("./assets/Anton-Regular.ttf") format("truetype");
+
+}
+
+
+
+body {
+  font-family: 'Anton', sans-serif;
+  overflow-x: hidden;
+}
+::selection{
+  background-color: green;
+  color: black;
+}
