@@ -14,6 +14,5 @@ export default defineConfig({
       },
     },
   },
-  base: "/Primal-GYM-Website/",
   plugins: [react(),tailwindcss(),],
 })
