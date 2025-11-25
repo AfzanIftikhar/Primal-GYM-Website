@@ -5,8 +5,9 @@ import App from './App.jsx'
 import { BrowserRouter } from "react-router-dom";
 
 createRoot(document.getElementById('root')).render(
-  // 👇 Add the basename prop here
-  <BrowserRouter basename="/Primal-GYM-Website/">
-    <App />
-  </BrowserRouter>
+  <StrictMode>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  </StrictMode>
 );
