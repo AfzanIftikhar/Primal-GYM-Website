@@ -7,8 +7,8 @@ const HeaderAbout = () => {
 
                 <div className='w-[60%] mt-10 h-auto  max-sm:w-full '>
                     <div>
-                        <h2 className='p-5 text-8xl whitespace-nowrap tracking-tight uppercase max-sm:text-4xl'>Tap into Your Primal Power.</h2>
-                        <h2 className='p-5 text-8xl whitespace-nowrap tracking-tight uppercase max-sm:text-4xl'>Forge a Stronger you.</h2>
+                        <h2 className='p-5 text-7xl whitespace-nowrap tracking-tight uppercase max-sm:text-4xl'>Tap into Your Primal Power.</h2>
+                        <h2 className='p-5 text-7xl whitespace-nowrap tracking-tight uppercase max-sm:text-4xl'>Forge a Stronger you.</h2>
                     </div>
                     <div className='mt-8 max-sm:mt-2'>
                         <h2 className='p-5  text-6xl uppercase max-sm:text-3xl'>OUR vision</h2>
